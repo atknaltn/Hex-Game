@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HexGame</string>
+    <string-array name="sizes">
+        <item>6 x 6</item>
+        <item>7 x 7</item>
+        <item>8 x 8</item>
+        <item>9 x 9</item>
+        <item>10 x 10</item>
+        <item>11 x 11</item>
+        <item>12 x 12</item>
+    </string-array>
+</resources>
